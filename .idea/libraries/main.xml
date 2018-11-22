@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="main">
+    <CLASSES />
+    <JAVADOC>
+      <root url="http://central.maven.org/maven2/org/mongodb/mongo-java-driver/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/bson/src/main" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/bson/src/test/unit" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-async/src/examples" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-async/src/main" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-async/src/test/functional" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-async/src/test/unit" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-benchmarks/src/main" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-core/src/main" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-core/src/test/functional" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-core/src/test/unit" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-embedded/src/main" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-embedded/src/test/functional" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-legacy/src/examples" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-legacy/src/main" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-legacy/src/test/functional" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-legacy/src/test/unit" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-sync/src/examples" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-sync/src/main" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-sync/src/test/functional" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/driver-sync/src/test/unit" />
+      <root url="file://$USER_HOME$/Desktop/mongo-java-driver-master/mongo-java-driver-master/util/src/main" />
+    </SOURCES>
+  </library>
+</component>

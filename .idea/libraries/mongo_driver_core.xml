@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mongo-driver-core">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/mongo-driver-core" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/mongo-driver-core" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/mongo-driver-core" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/mongo-driver-core" recursive="false" type="SOURCES" />
+  </library>
+</component>

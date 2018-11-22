@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mongodb-driver">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/mongodb-driver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/mongodb-driver" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/mongodb-driver" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/mongodb-driver" recursive="false" type="SOURCES" />
+  </library>
+</component>

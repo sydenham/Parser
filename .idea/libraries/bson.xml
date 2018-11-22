@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bson">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/bson" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/bson" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/bson" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/bson" recursive="false" type="SOURCES" />
+  </library>
+</component>
