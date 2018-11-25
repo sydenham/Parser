@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mongodb-driver1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.idea/libraries/mongodb-driver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/.idea/libraries/mongodb-driver" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.idea/libraries/mongodb-driver" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/.idea/libraries/mongodb-driver" recursive="false" type="SOURCES" />
+  </library>
+</component>

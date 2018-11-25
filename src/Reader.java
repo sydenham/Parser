@@ -5,7 +5,8 @@ import java.util.ArrayList;
 
 public class Reader {
 
-    ArrayList<String []> list = new ArrayList<>();
+    ArrayList<String[]> list = new ArrayList<>();
+
     public void readFile(String path) {
         try {
             BufferedReader file = new BufferedReader(new FileReader(path));
@@ -18,7 +19,7 @@ public class Reader {
             }
             file.close();
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("Nie mozna odnalezc okreslonego pliku lub sciezki");
         }
     }
 }
